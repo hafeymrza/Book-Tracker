@@ -1,5 +1,5 @@
 # book-tracker
-
+Simple Book Tracker using Vue
 ## Project setup
 ```
 npm install
